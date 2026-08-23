@@ -37,18 +37,18 @@ This repository contains the CLI scripts and deployment manifests. For the compl
 **🚀 Quick Execution**
 1. Authenticate with Azure CLI
 ```
-**Bash**
+Bash
 az login
 ```
 2. Run Deployment Script
 ```
-**Bash**
+Bash
 chmod +x deploy.sh
 ./deploy.sh
 ```
 3. Perform a Zero-Downtime Swap
 ```
-**Bash**
+Bash
 chmod +x swap-slots.sh
 ./swap-slots.sh
 ```
