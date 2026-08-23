@@ -36,22 +36,22 @@ This repository contains the CLI scripts and deployment manifests. For the compl
 
 **🚀 Quick Execution**
 1. Authenticate with Azure CLI
-
+```
 **Bash**
 az login
-
+```
 2. Run Deployment Script
-
+```
 **Bash**
 chmod +x deploy.sh
 ./deploy.sh
-
+```
 3. Perform a Zero-Downtime Swap
-
+```
 **Bash**
 chmod +x swap-slots.sh
 ./swap-slots.sh
-
+```
 ## 🔗 Related Production Blueprints
 
 - **[GitHub Actions CI/CD Pipeline Blueprint](https://devstackhub.tech/github-actions-cicd-guide/)**
