@@ -32,8 +32,9 @@ This repository contains the CLI scripts and deployment manifests. For the compl
          ┌─────────────▼─────────────┐
          │   Staging Slot (Testing)  │
          └───────────────────────────┘
+```
 
-🚀 Quick Execution
+**🚀 Quick Execution**
 1. Authenticate with Azure CLI
 
 **Bash**
